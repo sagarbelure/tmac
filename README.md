@@ -50,4 +50,3 @@ Examples
 ./tmac.sh -a
 ./tmac.sh -R eth0
 ./tmac.sh -R wlan0
-
